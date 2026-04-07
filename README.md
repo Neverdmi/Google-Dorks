@@ -11,7 +11,7 @@
 -  [Login](#-login)
 -  [Movies](#-movies)
 -  [Network Devices](#-network-devices)
--  [WordPress](#writing_hand-wordpress
+-  [WordPress](#writing_hand-wordpress)
 
 # Search Operators
 | Оператор         | Опис                                                                                                              | Синтаксис                               | Приклад                           |
